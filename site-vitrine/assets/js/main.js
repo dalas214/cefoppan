@@ -1,9 +1,3 @@
-/**
-* Template Name: Lumia - v4.7.0
-* Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
@@ -224,9 +218,9 @@
   });
 
   /**
-   * Testimonials slider
+   * album slider
    */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.album-slider', {
     speed: 600,
     loop: true,
     autoplay: {
